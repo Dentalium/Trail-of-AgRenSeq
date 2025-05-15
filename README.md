@@ -56,7 +56,7 @@ The authors collected 175 *Ae. tauschii* ssp. *stragulata* accessions (with resi
 
 ![map](images/map-combine.png)
 
-For phylogenetic analysis, a p-distance matrix was calculated and a UPGMA tree was built with `MEGA11`. On-line tool iTOL was used for tree annotation and modification. Coloured rings shows phenotype score coresponding to different *Pst* races. Magenta means -2 (susceptiable) and green means 2 (resistant). The blue ring on the inside represents samples used for phenotyping and association analysis.
+For phylogenetic analysis, a p-distance matrix was calculated and a UPGMA tree was built with `MEGA11`. On-line tool iTOL was used for tree annotation and modification. Colour of the branches distinguishes *Ae. tauschii* ssp. *stragulata* (cyan), *Ae. tauschii* ssp. *tauschii* (magenta) and intermediate (green). Coloured rings shows phenotype score coresponding to different *Pst* races. Magenta means -2 (susceptiable) and green means 2 (resistant). The blue ring on the inside represents samples used for phenotyping and association analysis.
 
 ![tree](images/tree.png)
 
