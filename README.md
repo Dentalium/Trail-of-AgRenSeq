@@ -74,7 +74,7 @@ Using `NLR-Parser`, 1531 contigs that may contain NLR genes were predicted as th
 
 As mentioned before, the SNP matrix provided by the authors can't be used directly, and they didn't show the detailed methods for converting. A self-made python script was employed to conduct missing value imputation, numerical encoding, and PCA. PCA matrix ready for later steps is a tab delimited text file with column names and row names, in witch columns record SNPs and rows record samples.
 
-![pca](images/pca.png)
+![pca](images/PCA.png)
 
 As the result shows, there is a population structure differentiation within *Ae. tauschii* ssp. *stragulata*, which can be divided into at least two sub-populations.
 
