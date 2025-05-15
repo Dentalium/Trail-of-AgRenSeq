@@ -54,7 +54,7 @@ flowchart TB
 
 The authors collected 175 *Ae. tauschii* ssp. *stragulata* accessions (with resistance to multiple *Pst* races), along with 19 *Ae. tauschii* ssp. *tauschii* accessions and an intermediate as outer group. A SNP matrix with 317 SNPs was used for phylogenetic alalysis and later PCA.
 
-![](images/mp-combine.png)
+![](images/map-combine.png)
 
 For phylogenetic analysis, a p-distance matrix was calculated and a UPGMA tree was built with `MEGA11`. On-line tool iTOL was used for tree annotation and modification. 
 
