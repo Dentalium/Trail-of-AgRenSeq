@@ -8,9 +8,7 @@ from sklearn.decomposition import PCA
 py=3.5.3
 """
 
-# ----------------------
-# 数据预处理与特征工程
-# ----------------------
+# 数据预处理
 def preprocess_genotype_matrix(input_file, missing_strategy='most_frequent'):
     """
     处理多等位基因型矩阵，包含：
@@ -57,9 +55,7 @@ def preprocess_genotype_matrix(input_file, missing_strategy='most_frequent'):
 
     return encoded_dfs
 
-# ----------------------
-# PCA分析与可视化
-# ----------------------
+# PCA与可视化
 def perform_pca(feature_matrix, n_components=5):
     """
     执行PCA分析并可视化结果
@@ -100,9 +96,6 @@ def perform_pca(feature_matrix, n_components=5):
     # 输出特征值矩阵
     result_df.to_csv(score_file, index=True, sep="\t")
 
-# ----------------------
-# 主程序执行
-# ----------------------
 if __name__ == "__main__":
     # 输入文件路径（示例）
     input_tsv = "../../rawdata/data/kasp_matrix.t.tsv"
