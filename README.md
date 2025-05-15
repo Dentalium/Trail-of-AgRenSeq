@@ -58,6 +58,8 @@ The authors collected 175 *Ae. tauschii* ssp. *stragulata* accessions (with resi
 
 For phylogenetic analysis, a p-distance matrix was calculated and a UPGMA tree was built with `MEGA11`. On-line tool iTOL was used for tree annotation and modification. 
 
+![](images/tree.png)
+
 ## 3.2 k-mer manipulate
 
 Reads from RenSeq of 195 accessions was split into 51-mers with `kmc` after QC. Resulting k-mer list is a tab delimited text file, in which the first column is  the sequence and the second column is the count of the k-mer. The k-mer matrix was then calculated with `AgRenSeq_CreatePresenceMatric.jar` as a gzipped text file. The header of the matrix which starts with "#" records sample names separated by ",", and the body of the matrix is 2 columns delimited by tab. The first column is the sequence and the second column is the presence string, in witch "0" means absence and "1" means presence. To reduce space usage, all "0"at the end of the string are omitted.
