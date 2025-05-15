@@ -1,4 +1,4 @@
-This is a reproduction of the research content of Arora et al.'s [article](https://doi.org/10.1038/s41587-018-0007-9).
+This is a reproduction of the research content of Arora et al.'s [article](https://doi.org/10.1038/s41587-018-0007-9). Some images have also been redrawn.
 
 Original codes: [steuernb/AgRenSeq (github.com)](https://github.com/steuernb/AgRenSeq), https://github.com/kgaurav1208/AgRenSeq_GLM
 
