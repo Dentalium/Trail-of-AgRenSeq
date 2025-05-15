@@ -108,7 +108,7 @@ except:
 	print(accession, "excluded")
 ```
 
-#### 3.6.1.3 The code did not consider the issue of omitting the tailing 0s in the k-mer matrix:
+#### 3.6.1.3 The code did not consider omitted tailing 0s in the k-mer matrix:
 
 Add code for adding 0s to last digits.
 
