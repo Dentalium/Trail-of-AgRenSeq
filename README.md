@@ -76,7 +76,7 @@ As mentioned before, the SNP matrix provided by the authors can't be used direct
 
 ![pca](images/PCA.png)
 
-As the result shows, there is a population structure differentiation within *Ae. tauschii* ssp. *stragulata*, which can be divided into at least two sub-populations.
+As the result shows, there is differentiation within *Ae. tauschii* ssp. *stragulata* population, which can be divided into at least two sub-populations.
 
 ## 3.5 Phenotype data
 
